@@ -20,11 +20,11 @@
 
 前面说到它是利用0或1判断上午还是下午，所以这里利用datetime库获取当前时间，如果上午返回0下午返回1即可。
 
-![4](https://github.com/a37324614/C30Sign/blob/main/4.png)
+![4](https://github.com/a37324614/C30Sign/blob/main/5.png)
 
 参数都获取到了，最后利用requests的post请求，再加上定时即可完美食用。
 
-![5](https://github.com/a37324614/C30Sign/blob/main/5.png)
+![5](https://github.com/a37324614/C30Sign/blob/main/4.png)
 
 ## **建议配合云函数食用最佳**
 
